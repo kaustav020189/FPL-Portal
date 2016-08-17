@@ -1,4 +1,4 @@
-#The FPL Portal
+#The FPL Portal [link](https://kaustav020189.github.io/FPL-Portal/)
 ##Introduction
 
 The project for creating and Android App, which will cater to the various managerial jobs that are associated with our very decorated FPL (Friend's Premier League) played in the computer game FIFA. This app will handle functionalities like maintaining custom team lists, player lists, transfer markets, player bidding, team management, etc.
