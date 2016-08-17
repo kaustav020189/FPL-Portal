@@ -14,9 +14,9 @@ The app is targeted to meet the following requirements and functionalities -
 
 ##Technical Specifications
 
--The app has been built on and only for Android users
--The app's minimum supported SDK is API 16: Android 4.1 (JellyBean) targeted only for phone devices
--The app does not use extensive graphic material
+1. The app has been built on and only for Android users
+2. The app's minimum supported SDK is API 16: Android 4.1 (JellyBean) targeted only for phone devices
+3. The app does not use extensive graphic material
 
 
 ##Support
